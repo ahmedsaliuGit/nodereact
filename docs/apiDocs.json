@@ -1,0 +1,12 @@
+{
+  "/": "APIs Documentation",
+  "/signup": "Sign up with user's detail name,email and password",
+  "/signin": "Sign in with email and password",
+  "/signout": "Sign out",
+  "/users": "Get all users",
+  "/user/:userId": "Get user by ID, update and delete with propriate http verb",
+  "/posts": "Get all posts",
+  "/post/new/:userId": "Create new post",
+  "/post/by/:userId": "Get post by user's ID",
+  "/post/:postId": "Update and delete with propriate http verb"
+}
